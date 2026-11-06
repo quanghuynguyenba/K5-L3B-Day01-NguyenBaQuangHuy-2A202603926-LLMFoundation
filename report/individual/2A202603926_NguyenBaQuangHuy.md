@@ -16,24 +16,13 @@
 
 ## 2. Kết quả chính
 
-*Chép bảng so sánh cuối Phần 5 (F1 test, F1 SUB 40, p95 ms/tin, USD/1k tin) của chính bạn.*
-
 ## 3. Dự đoán và thực tế
-
-*Chọn 3 dự đoán `predict(...)` lệch nhiều nhất so với kết quả. Mỗi cái: bạn đoán gì, ra gì, vì sao lệch.*
 
 ## 4. Phân tích 50 case khó
 
-*Model nào tụt nhiều nhất, ở nhóm case nào? Nêu 2 case cụ thể và cơ chế khiến model sai.*
-
 ## 5. Thử thách cá nhân
-
-*Đề theo SEED của bạn, cách làm, kết quả, giải thích.*
 
 ## 6. Phương án cho sản phẩm thật
 
-*Với yêu cầu p95 < 50 ms/tin cho 10 triệu SMS/ngày: chọn phương án nào, dẫn số liệu nào, chấp nhận đánh đổi gì.*
-
 ## 7. AI log và điều đã học
-
-*Mỗi lần dùng AI: hỏi gì, nhận gì, bạn sửa gì. Sau đó 2–3 câu: điều bạn hiểu ra hôm nay mà trước đó chưa hiểu.*
+Tôi hỏi AI cho hầu hết các câu hỏi vì chưa có nhiều kiến thức với xử lý các thuật toán AI. Điều nhận được là sau khi nghiên cứu để nắm được thuật toán dù ít dù nhiều cũng đã mường tượng được ý tưởng và lý do thiết kế các thuật toán đó.
